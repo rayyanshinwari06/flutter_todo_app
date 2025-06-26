@@ -1,16 +1,14 @@
-# todo_app
+# Flutter ToDo App ✅
 
-A new Flutter project.
+A clean and beginner-friendly Flutter ToDo app where users can add, check, and delete tasks. Built using `setState()` for simple state management.
 
-## Getting Started
+ Features
+- Add new tasks using a text input
+- Check off completed tasks with a checkbox
+- Delete tasks from the list
+- Keyboard dismisses on submit
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
